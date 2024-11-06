@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am software engineer working with keen interest in low level programming and web3. Currently I am mostly working with C/C++, rust, javascript and React.js. 
+
+
 <!--
 **Devender1703/Devender1703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
