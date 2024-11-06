@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am software engineer working with keen interest in low level programming and web3. Currently I am mostly working with C/C++, rust, javascript and React.js. 
+I am software engineer with keen interest in low level programming and web3. Currently I am mostly working with C/C++, rust, javascript and React.js. 
 
 
 <!--
